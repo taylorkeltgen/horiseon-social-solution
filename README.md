@@ -10,5 +10,5 @@
 ## Website:
 https://taylorkeltgen.github.io/horiseon-social-solution/
 
-## Contribution
-# Made by Taylor Keltgen
+## Contribution:
+### Made by Taylor Keltgen
